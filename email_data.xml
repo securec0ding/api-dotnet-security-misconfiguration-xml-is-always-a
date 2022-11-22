@@ -1,0 +1,26 @@
+<emails>
+    <email>
+        <subject>catching up</subject>
+        <sender>bob</sender>
+        <timestamp>2010-12-31T19:30:10Z</timestamp>
+        <body>
+            <contents>want to grab coffee</contents>
+        </body>
+    </email>
+    <email>
+        <subject>YOU ARE FIRED</subject>
+        <sender>boss</sender>
+        <timestamp>2017-04-01T10:36:00Z</timestamp>
+        <body>
+            <contents>sorry jk</contents>
+        </body>
+    </email>
+    <email>
+        <subject>Your Amazon Order</subject>
+        <sender>Amazon</sender>
+        <timestamp>2017-03-05T09:42:23Z</timestamp>
+        <body>
+            <contents>was eaten by the dog nextdoor</contents>
+        </body>
+    </email>
+</emails>
